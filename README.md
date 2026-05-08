@@ -9,4 +9,5 @@
 | [0577-employee-bonus](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/0577-employee-bonus/) | Easy |
 | [1084-sales-analysis-iii](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/1084-sales-analysis-iii/) | Easy |
 | [1517-find-users-with-valid-e-mails](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
+| [1527-patients-with-a-condition](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/1527-patients-with-a-condition/) | Easy |
 <!---LeetCode Topics End-->
