@@ -5,6 +5,7 @@
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0176-second-highest-salary](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/0176-second-highest-salary/) | Medium |
 | [0182-duplicate-emails](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/0182-duplicate-emails/) | Easy |
 | [0577-employee-bonus](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/0577-employee-bonus/) | Easy |
 | [0607-sales-person](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/0607-sales-person/) | Easy |
