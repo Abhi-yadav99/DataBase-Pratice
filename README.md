@@ -9,6 +9,7 @@
 | [0182-duplicate-emails](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/0183-customers-who-never-order/) | Easy |
 | [0550-game-play-analysis-iv](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/0550-game-play-analysis-iv/) | Medium |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/0577-employee-bonus/) | Easy |
 | [0607-sales-person](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/0607-sales-person/) | Easy |
 | [1084-sales-analysis-iii](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/1084-sales-analysis-iii/) | Easy |
