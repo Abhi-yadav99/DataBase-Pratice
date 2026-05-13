@@ -12,6 +12,7 @@
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/0577-employee-bonus/) | Easy |
 | [0607-sales-person](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/0607-sales-person/) | Easy |
+| [0626-exchange-seats](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/0626-exchange-seats/) | Medium |
 | [1084-sales-analysis-iii](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/1084-sales-analysis-iii/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1517-find-users-with-valid-e-mails](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
