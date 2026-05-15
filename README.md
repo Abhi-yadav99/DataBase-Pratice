@@ -22,4 +22,5 @@
 | [1407-top-travellers](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/1407-top-travellers/) | Easy |
 | [1517-find-users-with-valid-e-mails](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/1527-patients-with-a-condition/) | Easy |
+| [1587-bank-account-summary-ii](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/1587-bank-account-summary-ii/) | Easy |
 <!---LeetCode Topics End-->
