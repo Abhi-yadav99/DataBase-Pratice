@@ -15,6 +15,7 @@
 | [0577-employee-bonus](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/0577-employee-bonus/) | Easy |
 | [0595-big-countries](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/0595-big-countries/) | Easy |
 | [0607-sales-person](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/0607-sales-person/) | Easy |
+| [0619-biggest-single-number](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/0619-biggest-single-number/) | Easy |
 | [0626-exchange-seats](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/0626-exchange-seats/) | Medium |
 | [1068-product-sales-analysis-i](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1084-sales-analysis-iii](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/1084-sales-analysis-iii/) | Easy |
