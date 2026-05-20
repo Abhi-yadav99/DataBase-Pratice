@@ -23,6 +23,7 @@
 | [1084-sales-analysis-iii](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/1084-sales-analysis-iii/) | Easy |
 | [1211-queries-quality-and-percentage](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/1251-average-selling-price/) | Easy |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1407-top-travellers](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/1407-top-travellers/) | Easy |
 | [1517-find-users-with-valid-e-mails](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
