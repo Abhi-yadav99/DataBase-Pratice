@@ -21,6 +21,7 @@
 | [0626-exchange-seats](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/0626-exchange-seats/) | Medium |
 | [1068-product-sales-analysis-i](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1084-sales-analysis-iii](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/1084-sales-analysis-iii/) | Easy |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/1251-average-selling-price/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
