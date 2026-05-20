@@ -19,6 +19,7 @@
 | [0607-sales-person](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/0607-sales-person/) | Easy |
 | [0619-biggest-single-number](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/0619-biggest-single-number/) | Easy |
 | [0626-exchange-seats](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/0626-exchange-seats/) | Medium |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1084-sales-analysis-iii](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/1084-sales-analysis-iii/) | Easy |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Abhi-yadav99/DataBase-Pratice/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
